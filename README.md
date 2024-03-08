@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @iamhalym
+print("Hello World")
